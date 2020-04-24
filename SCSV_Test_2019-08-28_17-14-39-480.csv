@@ -1,0 +1,62 @@
+
+;
+"Umsätze Girokonto";"Zeitraum: 90 Tage";
+"Neuer Kontostand";"24.119,87";
+
+"Buchungstag";"Wertstellung (Valuta)";"Vorgang";"Buchungstext";"Umsatz in EUR";
+"offen";"--";"                    ";"Buchungstext Kauf USD Ref. Nr.:  268235 ";"-500,00";
+"07.03.2011";"07.03.2011";"Übertrag/Überweisung";"Empfänger Mustermann Kto / IBAN: DE61100900000001234567 BLZ / BIC: KRSDFGT Buchungstext: Einlage End-to-End-Ref.: nicht angegeben Ref. IK202020220202/2";"-2.000,10";
+"01.03.2011";"01.03.2011";"Übertrag/Überweisung";"Auftraggeber: Xyz GmbH Buchungstext: Gehalt End-to-End-Ref.: nicht angegeben Ref. J02565656565656/989";"1.751,22";
+"29.02.2011";"29.02.2011";"Übertrag/Überweisung";"Empfänger: Emma Mustermann Kto/IBAN: DE06201901080019654600 BLZ / BIC: GENKRT&HJ / K Buchungstext: Ausbildungszuschuss  End-to-End-Ref.: nicht angegeben Ref. J9287874t54t4/2";"-485,30";
+"04.02.2011";"04.02.2011";"Auszahlung GAA";"Buchungstext: GA NR00000417 BLZ61340079 1 04.02/12.36UHR SCHWAEB 43 EUR 1000, 0 GEB.EUR 0, 0 Ref. 31L1879777Fh7454/206566";"-1.000,40";
+"02.02.2011";"02.02.2011";"Übertrag/Überweisung";"Empfänger: Rachman Kto / IBAN: DE6598729299577200 BLZ / BIC: KRSDFGT Buchungstext: Rueckbuchung End-to-End-Ref.: nicht angegeben Ref. H521879809HJD/HJDK523/2";"-1.744,31";
+"01.02.2011";"01.02.2011";"Lastschrift/Belast.";"Auftraggeber: comdirect Visa - Monatsabrechnung     Buchungstext: VISA-KARTE NR. 465487XXXX1234 SUMME MONATSABRECHNUNG VISA Dirk Mustermann Ref. I62189895768590HJJK22/5865";"-1.304,60";
+
+"Alter Kontostand";"62.891,50";
+
+"Umsätze Visa-Karte ..1234 (Dirk Mustermann)";"Zeitraum: 90 Tage";
+"Neuer Kontostand";"0,00";
+
+"Buchungstag";"Umsatztag";"Vorgang";"Referenz";"Buchungstext";"Umsatz in EUR";
+"29.01.2011";"29.01.2011";"Visa-Kartenabrechnung";"178543545646451";" SUMME MONATSABRECHNUNG VISA ";"1.304,00";
+"29.01.2011";"28.01.2011";"Wechselgeld-Sparen";"1181434464518001";" WECHSELGELD-SPARBETRAG ";"-3,78";
+"29.01.2011";"28.01.2011";"Visa-Umsatz";"854787644818548";" MICROSOFT DEVELOPER ";"-99,22";
+"16.12.2010";"15.12.2010";"Visa-Umsatz";"775621089987";" PAYPAL HANDEL 9878436998871 006 ";"-44,99";
+
+"Alter Kontostand";"-225,00";
+
+"Umsätze Visa-Karte ..5678 (Sonja Musterfrau)";"Zeitraum 90 Tage";
+
+"Keine Umsätze vorhanden.";
+
+"Umsätze Tagesgeld PLUS-Konto";"Zeitraum 90 Tage";
+"Neuer Kontostand";"44.899,66";
+
+"Buchungstag";"Wertstellung (Valuta)";"Vorgang";"Buchungstext";"Umsatz in EUR";
+"08.02.2011";"02.02.2011";"Übertrag/Überweisung";"Buchungstext Bonuszahlung Wechselgeldsparen Ref. 9TZZ0395878726/99877";"0,08";
+"01.02.2011";"01.02.2011";"Übertrag/Überweisung";"Auftraggeber: COMDIRECT BANK AG Buchungstext: GUTSCHR.WECHSELGELD-SPAREN 0807872 489 End-to-End-Ref.: nicht angegeben Ref. KR89579475516/8406";"3,78";
+"31.12.2010";"31.12.2010";"Kontoabschluss";"Buchungstext: Abschluss Zinsen Kto 6557454755 EUR von 30.09.2010 bis 31.12.2010 Habenzinsen 0, 200% ab 30.09. 5, 0 EUR 0, 100% ab 30.09. 10, 32 EUR vom 30.09.2010 bis 31.12.2010 Kapitalertragsteuer 3, 83 - EUR Solidaritätszuschlag 0, 21 - EUR Abschlussrechnung 11, 28 EUR Saldo nach Abschluss 81.846, 67 EUR Ref. 9jzfuzr87859358594/7545";"11,28";
+
+"Alter Kontostand";"44.835,39";
+
+"Umsätze Verrechnungskonto";"Zeitraum:  90 Tage";
+"Neuer Kontostand";"29.985,18";
+
+"Buchungstag";"Wertstellung (Valuta)";"Vorgang";"Buchungstext";"Umsatz in EUR";
+"02.02.2011";"02.02.2011";"Kupon";"Buchungstext ERTRAEGNISGUTSCHRIFT VOM 02.02.11 DEPOTBESTAND:  700,000 KEV RAGNO ZUBN67 EUR 3,55 Abr.Betrag Brutto 2.100,00 EUR Steuerabzug 14,16- EUR Ref. 0JH89898917/4898";"2.085,84";
+"17.12.2010";"17.12.2010";"Übertrag/Überweisung";"Auftraggeber Finanzamt Musterstadt(Finanzk asse)Buchungstext: ERSTATT0.123458 / 456 / 88 EINK.ST 4VJ.10 10, 0 EUR End-to-End-Ref.:  123458/456/88 EINK.JK786782068936564 Ref. IKR79754938KJ80/54849";"10,00";
+
+"Alter Kontostand";"18.455,16";
+
+"Umsätze Depot";"Zeitraum 90 Tage";
+
+"Keine Umsätze vorhanden.";
+
+"Umsätze Währungsanlagekonto (USD)";"Zeitraum 90 Tage";
+"Neuer Kontostand";"547,76";
+
+"Buchungstag";"Wertstellung (Valuta)";"Vorgang";"Buchungstext";"Umsatz in USD";
+"15.03.2016";"16.03.2016";"Kontoübertrag";"Buchungstext UEBERTRAG UNS.REF: AZCEU607500215 1 IHRE REF: 262745 Ref. 6EK16075F0235716/74";"547,76";
+
+"Alter Kontostand";"0,00";
+
